@@ -1,0 +1,9 @@
+{
+    "name": "concepts classes",
+    "short_name": "concept-classes",
+    "description": "tution",
+    "start_url": "https://steady-mochi-2ae5e0.netlify.app/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
